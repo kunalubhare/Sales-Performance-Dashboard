@@ -24,12 +24,14 @@ The objective was to identify key business insights related to sales performance
 
 ## Dashboard Features
 
-* Sales by Category
-* Profit by Category
-* Top 10 Products by Sales
-* Sales by Region
-* Monthly Sales Trend
-* Interactive Filters (Category, Region, Segment, Year)
+- Sales by Category
+- Profit by Category
+- Top 10 Products by Sales
+- Sales by Region
+- Monthly Sales Trend
+- Interactive Filters (Category, Region, Segment, Year)
+- 10 Business SQL Queries
+- SQLite Database Integration
 
 ## Key Insights
 

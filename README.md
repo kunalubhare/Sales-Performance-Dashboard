@@ -93,5 +93,3 @@ Kunal Ubhare
 B.Tech Electronics & Telecommunication Engineering
 
 Aspiring Data Analyst
-
-

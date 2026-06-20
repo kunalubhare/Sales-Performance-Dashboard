@@ -2,7 +2,13 @@
 
 ## Dashboard Preview
 
-![Dashboard Overview](Images/dashboard_overview.png)
+### Sales Performance Dashboard
+
+![Sales Dashboard](Dashboard/Sales_Performance_Dashboard.png)
+
+### Sales Insights & Analysis
+
+![Sales Insights](Dashboard/Sales_Insights_Analysis.png)
 
 ## Project Overview
 
